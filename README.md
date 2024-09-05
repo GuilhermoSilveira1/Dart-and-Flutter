@@ -1,3 +1,8 @@
 # Dart-and-Flutter
-A repo containing the codes develop throught the Mobile Dev. subject on college.
-The idea is to just keep track of the exercises and small projects.
+
+A repository containing the code developed throughout the **Mobile Development** subject in college.  
+The goal is to track exercises and small projects created during the course.
+
+### Contents
+- Exercises in **Dart**
+- Small **Flutter** projects for mobile development practice
